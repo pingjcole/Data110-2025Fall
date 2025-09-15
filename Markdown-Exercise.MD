@@ -90,5 +90,17 @@ do you have any idea what is this `print` do in python?
 *Footnotes* are for references [^1]
 
 
-[^1]: This is the footnote, it's Takos again! ![image alt](https://github.com/pingjcole/Data110-2025Fall/blob/9d2439b5cae8cf42484b12976a6a163aea374cc2/Takos.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: This is the footnote, it's Takos again!(https://github.com/pingjcole/Data110-2025Fall/blob/9d2439b5cae8cf42484b12976a6a163aea374cc2/Takos.jpg)
 
