@@ -62,14 +62,14 @@ print(greet("World"))
 ```
 
 
-do you have any idea what is this `print` do in python?
+this is what `print` does in python
 
 
 
-| Header 1 | Header 2 |
+| Love | Hate |
 |----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| Reading | Migraines |
+| Sleeping| Loud Noises |
 
 ---
 
