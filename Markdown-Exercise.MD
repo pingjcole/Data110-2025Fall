@@ -65,7 +65,7 @@ print(greet("World"))
 this is what `print` does in python
 
 
-
+This is a table of what I love and hate:
 | Love | Hate |
 |----------|----------|
 | Reading | Migraines |
