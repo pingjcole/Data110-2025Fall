@@ -44,7 +44,7 @@ this one is normal
 
 
 This is an image of my bearded dragon Takos:
-
+Takos.jpg
 
 
 
