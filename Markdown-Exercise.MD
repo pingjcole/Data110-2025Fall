@@ -1,3 +1,9 @@
+# **'Author'**
+- **Name:** Ping Jiang
+- **Date Created:** 09/14/2025
+
+
+
 # title big
 ## title
 ### title
@@ -26,28 +32,26 @@ this one is normal
     2. new two
   
 
-[Wiki](https://www.wikipedia.org)
+[Amazon](https://www.amazon.com)
 
-[MC Website ](https://www.montgomerycollege.edu "a text will appear if you hover over the link")
+[Amazon Website ](https://www.amazon.com "a text will appear if you hover over the link")
 
-[Montgtomery College][mc-link] is a great institution. if you come to Maryland make sure to visit [MC][mc-link]
-
-
+[Amazon Shopping][amazon-link] is a great shopping web. if you want to get something quickly make sure to visit [Amazon][amazon-link]
 
 
+[amazon-link]: https://www.amazon.com
 
 
 
-[mc-link]: https://www.montgomerycollege.edu
-
+This is an image of my bearded dragon Takos:
 
 
 
 
-[![Montgomery College Logo](MClogo.png)](https://www.montgomerycollege.edu)
+## **BlockQuotes**
 
-
-
+> "If it was easy, everyone would be doing it, and you wouldn't have an opportunity"
+> *- Bob Parsons*
 
 
 ```python
