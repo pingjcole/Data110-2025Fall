@@ -44,7 +44,7 @@ this one is normal
 
 
 This is an image of my bearded dragon Takos:
-![Short alt text describing image](./images/Takos.jpg)
+![image alt](https://github.com/pingjcole/Data110-2025Fall/blob/9d2439b5cae8cf42484b12976a6a163aea374cc2/Takos.jpg)
 
 
 
