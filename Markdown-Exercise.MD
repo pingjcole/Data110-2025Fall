@@ -66,27 +66,29 @@ do you have any idea what is this `print` do in python?
 
 
 
----
-
-
-
-- [X] sleep
-- [ ] workout
-- [ ] read
-- [ ] eat
-
-
-
-
-
 | Header 1 | Header 2 |
 |----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
+---
+
+
+
+- [X] Study
+- [ ] Jumprope
+- [ ] Read
+- [X] Sleep
+
+
+
+
 ------
 
-The quadratic formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+# **Footnotes**
+
+*Footnotes* are for references [^1]
 
 
+[^1]: This is the footnote, it's Takos again!(https://github.com/pingjcole/Data110-2025Fall/blob/9d2439b5cae8cf42484b12976a6a163aea374cc2/Takos.jpg)
 
